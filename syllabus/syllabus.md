@@ -16,4 +16,4 @@ Here is a link for the [syllabus](./F24_3070_syllabus.pdf) if it doesn't appear 
 
 <div id="syllabus"></div>
 <script src="/script/pdfobject.js"></script>
-<script>PDFObject.embed("/syllabus/F23_3070_syllabus.pdf#toolbar=0&navpanes=0", "#syllabus");</script>
+<script>PDFObject.embed("/syllabus/F24_3070_syllabus.pdf#toolbar=0&navpanes=0", "#syllabus");</script>
