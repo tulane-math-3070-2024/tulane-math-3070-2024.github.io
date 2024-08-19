@@ -26,4 +26,4 @@ Topics:
 
 | Monday | Wednesday | Friday | HW |
 |:-----------|:-----------|:------------|:---|
-| **08/19** Introduction |  |  | |
+| **08/19** Introduction | **08/23** Set Theory  |  | |
