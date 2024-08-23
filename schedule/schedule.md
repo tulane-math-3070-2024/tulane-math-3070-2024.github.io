@@ -26,4 +26,5 @@ Topics:
 
 | Monday | Wednesday | Friday | HW |
 |:-----------|:-----------|:------------|:---|
-| **08/19** Introduction | **08/23** Set Theory  | **08/25** Set Theory cont.  | [HW1](../HW/HW1/HW1.pdf) |
+| **08/19** Introduction | **08/21** Set Theory  | **08/23** Set Theory cont.  | [HW1](../HW/HW1/HW1.pdf) |
+| **08/26** Axioms of Probability | | | |
