@@ -31,6 +31,6 @@ Topics:
 | **09/02** _no class_ (labor day) | **09/04** Bayes rule | **09/06** Independence | [HW2](../HW/HW1.5/HW2.pdf) |
 | **09/09** Random Variables | **09/11** Types of Random Variables (zoom lecture because of Hurricane) | **09/13** Discrete Random Variable | |
 | **09/16** Continuous Random Variables | **09/18** Transformations of Discrete r.v. | **09/20** Transformations of continuous r.v. | [HW3](../HW/HW2/HW3.pdf) |
-| **09/23** Transformations of continuous r.v. cont. | | | |
+| **09/23** Transformations of continuous r.v. cont. | **09/25** Expectations | | |
 | | **10/02** Midterm 1 | **10/04** _no class_ (fall break) | |
 | **11/25** _no class_ (Thanksgiving Holiday) | **11/27** _no class_ (Thanksgiving Holiday) | **11/29** _no class_ (Thanksgiving Holiday) | |
