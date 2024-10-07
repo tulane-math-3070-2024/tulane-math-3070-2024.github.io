@@ -32,5 +32,6 @@ Topics:
 | **09/09** Random Variables | **09/11** Types of Random Variables (zoom lecture because of Hurricane) | **09/13** Discrete Random Variable | |
 | **09/16** Continuous Random Variables | **09/18** Transformations of Discrete r.v. | **09/20** Transformations of continuous r.v. | [HW3](../HW/HW2/HW3.pdf) |
 | **09/23** Transformations of continuous r.v. cont. | **09/25** Expectations | **09/27** Expectations cont. | |
-| **09/30** Moments | **10/02** Midterm 1 | **10/04** _no class_ (fall break) | [HW4](../HW/HW4/HW4.pdf) |
+| **09/30** Review | **10/02** Midterm 1 | **10/04** _no class_ (fall break) | [HW4](../HW/HW4/HW4.pdf) |
+| **10/07** Moments | | | |
 | **11/25** _no class_ (Thanksgiving Holiday) | **11/27** _no class_ (Thanksgiving Holiday) | **11/29** _no class_ (Thanksgiving Holiday) | |
