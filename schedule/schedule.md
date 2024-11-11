@@ -38,4 +38,5 @@ Topics:
 | **10/21** Common Discrete Distribution | **10/23** Common Continuous Distribution | **10/25** Common Continuous Distribution | [HW5](../HW/HW5/HW5.pdf) |
 | **10/28** Common Continuous Distribution | **10/30** Common Continuous Distribution | **11/01** Common Continuous Distribution | |
 | **11/04** Location Scale Families | **11/06** HW review | **11/08** Exponential Families | [HW6](../HW/HW6/HW6.pdf) |
+| **11/11** Review | **11/13** Midterm 2 | | |
 | **11/25** _no class_ (Thanksgiving Holiday) | **11/27** _no class_ (Thanksgiving Holiday) | **11/29** _no class_ (Thanksgiving Holiday) | |
