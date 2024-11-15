@@ -39,4 +39,5 @@ Topics:
 | **10/28** Common Continuous Distribution | **10/30** Common Continuous Distribution | **11/01** Common Continuous Distribution | |
 | **11/04** Location Scale Families | **11/06** HW review | **11/08** Exponential Families | [HW6](../HW/HW6/HW6.pdf) |
 | **11/11** Review | **11/13** Midterm 2 | **11/15** Multiple Random Variables | |
+| **11/18** Bivariate Distributions| | | |
 | **11/25** _no class_ (Thanksgiving Holiday) | **11/27** _no class_ (Thanksgiving Holiday) | **11/29** _no class_ (Thanksgiving Holiday) | |
