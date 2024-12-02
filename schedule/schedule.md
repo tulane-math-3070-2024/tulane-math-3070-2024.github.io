@@ -41,3 +41,4 @@ Topics:
 | **11/11** Review | **11/13** Midterm 2 | **11/15** Multiple Random Variables | |
 | **11/18** Bivariate Distributions| **11/20** Conditional Distribution | **11/22** Independence | |
 | **11/25** _no class_ (Thanksgiving Holiday) | **11/27** _no class_ (Thanksgiving Holiday) | **11/29** _no class_ (Thanksgiving Holiday) | |
+| **12/02** Expectation | | | |
